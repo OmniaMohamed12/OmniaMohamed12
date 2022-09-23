@@ -6,5 +6,5 @@
 ### :woman_technologist: About Me :
 I’m a senior Electronics and Communication Engineering student👩‍🎓 at Alexandria University.
 - 👀 I’m interested in digital IC design.
-- 🌱 I’m currently learning Verification & ASIC.
+- 🌱 I’m currently learning Verification.
 - 📫 How to reach me: omniamselim@gmail.com 
